@@ -12,3 +12,6 @@ Philosophy is a great field of study all by itself because of the amazing questi
 
 Anyway, I took a c++ class during my AE time and took several logic classes in Philosophy and
 discovered that I was drawn to coding even in my free time.
+
+******Update******
+I have now graduated college and am working as a Software Analyst/Trainer. Still taking online coding classes in my free time. My goal is still to make the jump to developer sometime soon, relatively speaking. (Not sure how this turned into a blog, pretty sure that is not what Hello World is supposed to be)
